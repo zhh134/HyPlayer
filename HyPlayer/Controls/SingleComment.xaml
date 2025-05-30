@@ -102,7 +102,7 @@
                 </StackPanel>
             </muxc:Expander.Header>
             <StackPanel Orientation="Vertical">
-                <Grid Visibility="Collapsed" Margin="0,12,0,12">
+                <Grid Margin="0,12,0,12" Visibility="Collapsed">
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition />
                         <ColumnDefinition Width="80" />
